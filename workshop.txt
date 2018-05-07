@@ -1,0 +1,26 @@
+day 2
+ 
+list ( data validation)
+index = intersecting of row and column
+match = 
+less than maatch = try locate max possible value which is less than lookup value.
+more than = lowest possible value which is more then lookup value.
+
+FRequency function always do inclusive table that is upper limit is included.
+
+solve equations by goal seek in what if analysis in data.
+
+Quick - series statistics - descriptive data - all data 
+then you will  get the summry of all the data as in mean median mode etc .. For excel goto analysis.
+jarque bera tells the normality of data which can be seen by the probabilityy value.
+
+logistic regression : Sum of residuals is always 1.
+
+if p<0.5 reject null analysisI(stationary data)
+if p >0.5 fail to reject null hypothesis(non stationary data)
+
+Connecting pivot to the normal table and connecting  2 tables together.
+
+Advace filter:
+Write the cmnd in alternate row for an OR cmnd else write in the same row.
+A???a Name format to get the name like this.
